@@ -1,4 +1,4 @@
-name: MS365E5Dev-Renew
+name: MS365E5Dev Renew
 
 on:
   workflow_dispatch:
