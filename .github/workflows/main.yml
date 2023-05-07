@@ -1,9 +1,9 @@
-name: E5-Rclone-Actions-Repo
+name: MS365E5Dev-Renew
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: 0 22 1/2 * *
+    - cron: 45 23 * * *
 
 jobs:
   run-it:
